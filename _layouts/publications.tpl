@@ -17,7 +17,17 @@ layout: pages-all
     </div>
 </div>
 
-<p style="text-align: right; margin-top: -40px;"><small>Last updated <i>November 13, 2024&ndash; Pulled automatically from my <a href="https://scholar.google.ca/citations?hl=en&user=WUN5BGgAAAAJ&hl">Google Scholar profile</a>. See <a href="https://thackl.github.io/automatically-update-publications-with-R-scholar">this post</a> for how it works.</small></p>
+<p style="text-align: right; margin-top: -40px;"><small>Last updated <i>September 11, 2025&ndash; Pulled automatically from my <a href="https://scholar.google.ca/citations?hl=en&user=WUN5BGgAAAAJ&hl">Google Scholar profile</a>. See <a href="https://thackl.github.io/automatically-update-publications-with-R-scholar">this post</a> for how it works.</small></p>
+<h3>2025</h3>
+<table class="publication-table" border="10px solid blue" cellspacing="0" cellpadding="6" rules="", frame=""><tbody>
+<tr><td width="100%">S Stanton, P Awadalla, L Hughes, SM Vareki (2025) <a href="https://scholar.google.com/scholar?oi=bibs&cluster=13106950155681426885&btnI=1&hl=en">SITC strategic vision: prevention, premalignant immunity, host and environmental factors</a>, Journal for Immunotherapy of Cancer, 13 (3), e010419</td></tr>
+<tr><td width="100%">JJ Connolly, S Sundseth, GM Wood, C Nwaneri, G Ginsburg, P Awadalla et al. (2025) <a href="https://scholar.google.com/scholar?oi=bibs&cluster=NA&btnI=1&hl=en">The International Health Cohorts Consortium (IHCC) advances population health research and genomic discovery</a>, Communications Medicine, 5 (1), 366</td></tr>
+<tr><td width="100%">N Zhao, A Smargiassi, H Chen, MY Choi, M Fritzler, Z Touma, P Awadalla et al. (2025) <a href="https://scholar.google.com/scholar?oi=bibs&cluster=NA&btnI=1&hl=en">POS0101 FINE PARTICULATE MATTER AIR POLLUTION AND ANTI-NUCLEAR ANTIBODY POSITIVITY: THE ONTARIO HEALTH STUDY</a>, Annals of the Rheumatic Diseases, 84, 396</td></tr>
+<tr><td width="100%">N Zhao, A Smargiassi, H Chen, M Choi, M Fritzler, Z Touma, P Awadalla et al. (2025) <a href="https://scholar.google.com/scholar?oi=bibs&cluster=NA&btnI=1&hl=en">FINE PARTICULATE MATTER AIR POLLUTION AND ANTINUCLEAR ANTIBODY POSITIVITY: THE ONTARIO HEALTH STUDY</a>, The Journal of Rheumatology, 52 (Suppl 1), 122-122</td></tr>
+<tr><td width="100%">JR Won Kang, V Bruat, K Skead, M Agbessi, J Kim, E Gbeha, MJ Fave et al. (2025) <a href="https://scholar.google.com/scholar?oi=bibs&cluster=NA&btnI=1&hl=en">Mosaic chromosomal alterations overlapping hotspot and coldspot sites of somatic structural variation are associated with increased odds of hematological malignancy</a>, Cancer Research, 85 (8_Supplement_1), 4905-4905</td></tr>
+<tr><td width="100%">M Darvishian, A Moustaqim‐Barrette, P Awadalla, P Bhatti, P Broet et al. (2025) <a href="https://scholar.google.com/scholar?oi=bibs&cluster=NA&btnI=1&hl=en">Provincial Variation in Adherence to Breast Cancer Screening in Canada: Evidence From the Canadian Partnership for Tomorrow's Health</a>, Cancer Medicine, 14 (6), e70543</td></tr>
+<tr><td width="100%">P AWADALLA, F LAMAZE (2025) <a href="https://scholar.google.com/scholar?oi=bibs&cluster=NA&btnI=1&hl=en">Pan-cancer transcriptional signature</a>, US Patent App., 17/612,695</td></tr>
+</tbody></table>
 <h3>2024</h3>
 <table class="publication-table" border="10px solid blue" cellspacing="0" cellpadding="6" rules="", frame=""><tbody>
 <tr><td width="100%">EY Stutheit-Zhao, E Sanz-Garcia, Z Liu, D Wong, K Marsh et al. (2024) <a href="https://scholar.google.com/scholar?oi=bibs&cluster=552353143901217821&btnI=1&hl=en">Early changes in tumor-naive cell-free methylomes and fragmentomes predict outcomes in pembrolizumab-treated solid tumors</a>, Cancer Discovery, 14 (6), 1048-1063</td></tr>
