@@ -21,9 +21,9 @@ layout: pages-all
 <h3>2026</h3>
 <table class="publication-table" border="10px solid blue" cellspacing="0" cellpadding="6" rules="", frame=""><tbody>
 <tr><td width="100%">CAR Warmerdam, HJ Westra, A van der Graaf, MJ Bonder, P Deelen et al. (2026) <a href="https://scholar.google.com/scholar?oi=bibs&cluster=4300236376390723806&btnI=1&hl=en">Trans-eQTLs reveal the architecture of human gene regulatory networks</a>, medRxiv, 2026.02. 04.26343575</td></tr>
-<tr><td width="100%">Y Zeng, DD Abelman, A Singhawansa, N Cheng, Y Fang, SC Main, E Bell et al. (2026) <a href="https://scholar.google.com/scholar?oi=bibs&cluster=NA&btnI=1&hl=en">A pan-cancer compendium of 1,294 plasma cell-free DNA methylomes and fragmentomes enabling multicancer detection</a>, Nature Cancer, 1-15</td></tr>
-<tr><td width="100%">I Nofech-Mozes, A Cook, TW Ouellette, S Hafezi-Bakhtiari, P Awadalla et al. (2026) <a href="https://scholar.google.com/scholar?oi=bibs&cluster=NA&btnI=1&hl=en">A Pan-Cancer Single-Cell Compendium of Intratumoural Heterogeneity</a>, bioRxiv, 2026.01. 06.693992</td></tr>
-<tr><td width="100%">C Díaz-Muñoz, I Bozzarelli, EA Lopera-Maya, L Belbasis, VL Faro et al. (2026) <a href="https://scholar.google.com/scholar?oi=bibs&cluster=NA&btnI=1&hl=en">Genetic dissection of stool frequency implicates vitamin B1 metabolism and other actionable pathways in the modulation of gut motility</a>, Gut, </td></tr>
+<tr><td width="100%">Y Zeng, DD Abelman, A Singhawansa, N Cheng, Y Fang, SC Main, E Bell et al. (2026) <a href="https://doi.org/10.1038/s43018-026-01116-3">A pan-cancer compendium of 1,294 plasma cell-free DNA methylomes and fragmentomes enabling multicancer detection</a>, Nat Cancer 7, 384–398 (2026)</td></tr>
+<tr><td width="100%">I Nofech-Mozes, A Cook, TW Ouellette, S Hafezi-Bakhtiari, P Awadalla et al. (2026) <a href="https://doi.org/10.64898/2026.01.06.693992">A Pan-Cancer Single-Cell Compendium of Intratumoural Heterogeneity</a>, bioRxiv, 2026.01. 06.693992</td></tr>
+<tr><td width="100%">C Díaz-Muñoz, I Bozzarelli, EA Lopera-Maya, L Belbasis, VL Faro et al. (2026) <a href="https://doi.org/10.1136/gutjnl-2025-337059">Genetic dissection of stool frequency implicates vitamin B1 metabolism and other actionable pathways in the modulation of gut motility</a>, Gut </td></tr>
 </tbody></table>
 <h3>2025</h3>
 <table class="publication-table" border="10px solid blue" cellspacing="0" cellpadding="6" rules="", frame=""><tbody>
